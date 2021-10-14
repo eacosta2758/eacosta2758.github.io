@@ -3,6 +3,7 @@ theme = "hugo-apero"
 languageCode = 'en-us'
 title = "Eduardo L. Acosta"
 author = "Eduardo Acosta"
+publishDir = "docs"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
