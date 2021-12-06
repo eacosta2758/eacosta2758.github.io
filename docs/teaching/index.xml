@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Eduardo L. Acosta</title>
+    <link>http://eacosta2758.github.io/teaching/</link>
+    <description>Recent content in Teaching on Eduardo L. Acosta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://eacosta2758.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01: Time and its discontents</title>
+      <link>http://eacosta2758.github.io/teaching/01-time/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://eacosta2758.github.io/teaching/01-time/</guid>
+      <description>Course description     Time is fundamental to all ideas about the past and our projections to the future, yet our measures and conceptions of time change constantly. This class investigates how ideas, debates and everyday experiences of time, history and their periodization have taken shape in the intellectual exchange between South Asia and the West. We will explore key concepts and themes pertaining to the temporal cultures of medieval and modern South Asia, the differences and challenges that these ideas posed to the hegemonic Western world-view and how our modern notion of time, history and their everyday experiences were forged in this encounter.</description>
+    </item>
+    
+  </channel>
+</rss>
