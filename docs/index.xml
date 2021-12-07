@@ -8,12 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://eacosta2758.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>01: Time and its discontents</title>
+      <title>Time and its discontents</title>
       <link>http://eacosta2758.github.io/teaching/01-time/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>http://eacosta2758.github.io/teaching/01-time/</guid>
       <description>Course description     Time is fundamental to all ideas about the past and our projections to the future, yet our measures and conceptions of time change constantly. This class investigates how ideas, debates and everyday experiences of time, history and their periodization have taken shape in the intellectual exchange between South Asia and the West. We will explore key concepts and themes pertaining to the temporal cultures of medieval and modern South Asia, the differences and challenges that these ideas posed to the hegemonic Western world-view and how our modern notion of time, history and their everyday experiences were forged in this encounter.</description>
+    </item>
+    
+    <item>
+      <title>Sanskrit</title>
+      <link>http://eacosta2758.github.io/teaching/02-sanskrit/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://eacosta2758.github.io/teaching/02-sanskrit/</guid>
+      <description>Description     Here you will find a selection of handouts I created for students in the beginner and intermediate level of Sanskrit at The University of Chicago.
+Sample of handouts       #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #paginator { display: none; text-align: center; margin-bottom: 10px; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /       window.</description>
     </item>
     
     <item>

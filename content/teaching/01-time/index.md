@@ -1,17 +1,12 @@
 ---
-title: "01: Time and its discontents"
+title: "Time and its discontents"
 weight: 1
 slug: 
 subtitle: "Thinking and experiencing Time in South Asia"
-excerpt: "This class was offered in Fall 2020 at The College, The University of Chicago."
+excerpt: "This undergrad class was offered in Fall 2020 at The University of Chicago."
 date: 2021-12-01
 draft: false
 tags:
-  - blogdown
-  - netlify
-  - hugo
-  - rstudio
-  - github
 categories:
   - teaching
 ---
@@ -31,7 +26,7 @@ You can see the complete syllabus and course description in [the course website]
 
 ## Sample of handouts
 
-{{< embed-pdf url="./static/w03-chakrabarty-historicism.pdf" >}}
+
 [Download](./static/w03-chakrabarty-historicism.pdf "Download")
 
 [Download](./static/w06-themusicroom.pdf "Download")
