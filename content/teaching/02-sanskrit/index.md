@@ -15,6 +15,16 @@ categories:
 
 Here you will find a selection of handouts I created for students in the beginner and intermediate level of Sanskrit at The University of Chicago.
 
-### Sample of handouts
+## Sample of handouts
 
-{{< embed-pdf url="./avyayibhavas.pdf" >}}
+### Aviayībhāva compound
+
+[Download PDF](./pdf/avyayibhavas.pdf)
+
+### Bahuvrīhi compound
+
+[Download PDF](./pdf/samasa3_bahuvrihi.pdf)
+
+### Tatpuruṣa compound
+
+[Download PDF](./pdf/samasa2_tatpurusa.pdf)
